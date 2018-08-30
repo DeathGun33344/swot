@@ -1,0 +1,25 @@
+#### Institution/School Name 
+
+Université Virtuelle de Côte d'Ivoire
+UVCI
+Virtual University of Ivory Coast
+
+ #### Instiution/School Website
+
+https://uvci.edu.ci
+
+ #### Email Users
+
+- [x] Students
+- [x] Academic/Teaching Staff
+- [x] Other/Support Staff
+- [ ] Alumni
+
+ #### Education Levels
+
+ - [ ] Post-graduate research
+- [x] Graduate School
+- [x] College (University) or Undergraduate School or equivalent
+- [ ] Community College or equivalent
+- [ ] High School or equivalent
+- [ ] Elementary School or equivalent
